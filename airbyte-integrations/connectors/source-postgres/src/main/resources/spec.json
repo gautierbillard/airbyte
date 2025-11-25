@@ -277,7 +277,7 @@
                 "default": 10000,
                 "order": 6,
                 "min": 1000,
-                "max": 10000
+                "max": 100000
               },
               "lsn_commit_behaviour": {
                 "type": "string",
